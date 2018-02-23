@@ -1,7 +1,8 @@
 # kittens
-<<<<<<< HEAD
 
-Kittens are fun
-=======
-I don't really like kittens
->>>>>>> My comment 1
+Mariana: Kittens are fun
+
+Asya: I don't really like kittens
+
+Asya: Hello World
+
